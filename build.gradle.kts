@@ -25,6 +25,12 @@ dependencies {
     }
 }
 
+tasks {
+    jar {
+        enabled = true
+    }
+}
+
 tasks.withType<Test> {
     useJUnitPlatform()
 }
