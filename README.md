@@ -1,5 +1,8 @@
 # Spring Kotlin Extension
 
+[![](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
+[![](https://jitpack.io/v/TSedlar/spring-ext-kt.svg)](https://jitpack.io/#TSedlar/spring-ext-kt)
+
 ## Getting Started
 
 ### CriteriaNameSpace
